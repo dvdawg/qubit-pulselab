@@ -1,4 +1,4 @@
-# Single-Transmon Pulse Lab — Interactive App
+# Qubit Pulse Lab
 
 Run the lab:
 

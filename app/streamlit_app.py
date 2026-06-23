@@ -20,8 +20,7 @@ from pulselab import viz
 X_TARGET = np.array([[0, 1], [1, 0]], dtype=complex)
 
 st.set_page_config(page_title="Single-Transmon Pulse Lab", layout="wide")
-st.title("Single-Transmon Pulse Optimization Lab")
-st.caption("Tweak any parameter and watch its effect. Seeded with the real Q1 device.")
+st.title("Qubit Pulse Lab - Single Transmon")
 
 # ---- Device panel ----
 st.sidebar.header("Device")
